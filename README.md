@@ -1,7 +1,7 @@
- ### Project Description
+ # Project Description
 This project analyzes student performance during a 7-day Python workshop with the objective of evaluating whether a mentor's teaching effectiveness correlates with student performance in daily assessments. Daily feedback data is collected from students, cleaned, and structured to track trends across the week. The goal is to gain insights into how well students are grasping concepts and whether instructional quality directly impacts student understanding.
 
-### Step-by-Step Breakdown:
+## Step-by-Step Breakdown:
 ### Step 1: Import Required Libraries
 The code begins by importing essential Python libraries like pandas and numpy, which are used for handling data and performing numerical computations.
 
@@ -23,6 +23,6 @@ Trends over the 7-day period help assess whether students’ learning improved a
 ### Draw Final Insights
 By comparing feedback across the week, the project assesses if improved teaching led to better learning outcomes, fulfilling the central goal of analyzing teaching impact through data.
 
-### Summary
+# Summary
 This project explores student feedback collected during a 7-day Python workshop to understand the impact of mentorship on learning outcomes. Using Python and pandas, daily feedback is cleaned and standardized to identify trends in instructor performance and student comprehension. By comparing ratings over time, it helps determine if better teaching correlates with improved student understanding. The analysis provides valuable insights into instructional effectiveness, offering a data-driven approach to evaluating teaching strategies and student learning progress across a structured training program.
 
